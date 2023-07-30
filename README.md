@@ -5,19 +5,19 @@
 
 - 🔭 I’m currently working for **Sedin Techngologies**
 
-- 👨‍💻 All of my experience's are available at [https://chaitanya-portfolio-five.vercel.app/](https://chaitanya-muvvala.vercel.app/)
+- 👨‍💻 All of my experience's are available at [https://chaitanya-muvvala.vercel.app/](https://chaitanya-muvvala.vercel.app/)
 
 - 💬 Ask me about **HTML/CSS, Javascript, React, Next JS**
 
 - 📫 How to reach me **muvvalachaitanya05@gmail.com**
 
-- 📄 Know about my experiences [https://chaitanya-portfolio-five.vercel.app/KC_Resume_i.pdf](https://chaitanya-portfolio-five.vercel.app/KC_Resume_i.pdf)
+- 📄 Know about my experiences [https://chaitanya-muvvala.vercel.app//KC_Resume_i.pdf](https://chaitanya-muvvala.vercel.app//KC_Resume_i.pdf)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 <a href="https://linkedin.com/in/chaitanyamuvvala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaitanyamuvvala" height="30" width="40" /></a>
 <a href="https://instagram.com/kchaitanyamuvvala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kchaitanyamuvvala" height="30" width="40" /></a>
