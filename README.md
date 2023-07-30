@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working for **Sedin Techngologies**
 
-- 👨‍💻 All of my experience's are available at [https://chaitanya-muvvala.vercel.app/](https://chaitanya-muvvala.vercel.app/)
+- 👨‍💻 All of my experience's are available at [Portolio](https://chaitanya-muvvala.vercel.app/)
 
 - 💬 Ask me about **HTML/CSS, Javascript, React, Next JS**
 
 - 📫 How to reach me **muvvalachaitanya05@gmail.com**
 
-- 📄 Know about my experiences [https://chaitanya-muvvala.vercel.app//KC_Resume_i.pdf](https://chaitanya-muvvala.vercel.app//KC_Resume_i.pdf)
+- 📄 Know about my experiences [Resume](https://chaitanya-muvvala.vercel.app//KC_Resume_i.pdf)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
