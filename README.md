@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chaitanya Muvvala</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaitanya005" alt="chaitanya005" /></a> </p>
 
-- 🔭 I’m currently working on **Sedin Techngologies**
+- 🔭 I’m currently working for **Sedin Techngologies**
 
-- 👨‍💻 All of my experience's are available at [https://chaitanya-portfolio-five.vercel.app/](https://chaitanya-portfolio-five.vercel.app/)
+- 👨‍💻 All of my experience's are available at [https://chaitanya-portfolio-five.vercel.app/](https://chaitanya-muvvala.vercel.app/)
 
 - 💬 Ask me about **HTML/CSS, Javascript, React, Next JS**
 
